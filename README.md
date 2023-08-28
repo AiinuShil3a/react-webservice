@@ -30,3 +30,7 @@ If you are developing a production application, we recommend updating the config
   - name
   - react
   - JS OR TS
+ 
+  ## Component
+  - Stateless is Funtion (การไม่เปลี่ยนแปลง)(มีข้อมูล)
+  - Statefull is Class and Funsion(lastversion(version18UP)) (มีการเปลี่ยนแปลงตลอดเวลา)(ไม่มีข้อมูล)
